@@ -31,7 +31,7 @@ KHOOR → HELLO
 
 ### 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+[git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git](https://github.com/raheemtoor1-cpu/ceaser)
 
 ### 2. Open the Project Folder
 
